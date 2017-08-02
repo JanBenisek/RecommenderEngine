@@ -1,5 +1,4 @@
 # RecommenderEngine
-Predicting movie ratings from MovieLens dataset using Collaborative Filtering and Matrix Factorization.
 
 In the attached Jupyter notebook, I built two basic models for recommending movie ratings:
 
