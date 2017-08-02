@@ -1,2 +1,3 @@
 # RecommenderEngine
-Predicting movie ratings from MovieLens using Collaborative Filtering and Matrix Factorization.
+Predicting movie ratings from MovieLens dataset using Collaborative Filtering and Matrix Factorization.
+
